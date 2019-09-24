@@ -1,4 +1,3 @@
-
 Seismological softwares or packages
 ===================================
 
@@ -45,9 +44,9 @@ Phase picker
 
 https://github.com/interseismic/generalized-phase-detection
 
-This is a simple implementation of the Generalized Phase Detection (GPD) framework
- for seismic phase detection with deep learning. GPD uses deep convolutional networks
- to learn generalized representations of millions of P-wave, S-wave, 
+This is a simple implementation of the Generalized Phase Detection (GPD) framework 
+for seismic phase detection with deep learning. GPD uses deep convolutional networks
+to learn generalized representations of millions of P-wave, S-wave, 
 and noise seismograms that can be used for phase detection and picking.
 
 2. PhasePApy https://github.com/austinholland/PhasePApy
